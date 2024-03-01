@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gurnoor @Guri-21
 - 🌱 I’m currently learning ... dsa, python, c, js, html, css
-- 📫 How to reach me ... email-gur1112noor@gmail.com
+- 📫 How to reach me ... email:gur1112noor@gmail.com
 - 😄 Pronouns: ...he/him
 - ⚡ Hobbies: sports, coding, gaming, gym✨
 
